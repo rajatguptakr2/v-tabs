@@ -4,15 +4,6 @@
   - Keyboard accessible
   - Works with (or without) `ng-repeat`
 
-## Demos
-
-  - [GitHub](http://lukaszwatroba.github.io/v-tabs)
-  - [CodePen](http://codepen.io/LukaszWatroba/pen/raEZzx)
-
-
-## Usage
-
-  - If you use [bower](http://bower.io/) or [npm](https://www.npmjs.com/), just `bower/npm install v-tabs`. If not, download files [from the github repo](./dist).
 
   - Include `angular.js`, `angular-animate.js`, `v-tabs.js`, and `v-tabs.css`:
   ```html
